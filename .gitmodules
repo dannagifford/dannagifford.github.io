@@ -1,0 +1,18 @@
+[submodule "Wk1-01_open_research_and_reproducibility"]
+	path = Wk1-01_open_research_and_reproducibility
+	url = https://github.com/dannagifford/Wk1-01_open_research_and_reproducibility
+[submodule "MSci_BIOL33031/workshops/Wk1-02_starting_with_r"]
+	path = MSci_BIOL33031/workshops/Wk1-02_starting_with_r
+	url = https://github.com/dannagifford/Wk1-02_starting_with_r
+[submodule "MSci_BIOL33031/workshops/Wk2-03_data_wrangling"]
+	path = MSci_BIOL33031/workshops/Wk2-03_data_wrangling
+	url = https://github.com/dannagifford/Wk2-03_data_wrangling
+[submodule "MSci_BIOL33031/workshops/Wk2-04_summarising_your_data"]
+	path = MSci_BIOL33031/workshops/Wk2-04_summarising_your_data
+	url = https://github.com/dannagifford/Wk2-04_summarising_your_data
+[submodule "MSci_BIOL33031/workshops/Wk2-06_data_visualisation"]
+	path = MSci_BIOL33031/workshops/Wk2-06_data_visualisation
+	url = https://github.com/dannagifford/Wk2-06_data_visualisation
+[submodule "MSci_BIOL33031/workshops/Wk1-01_open_research_and_reproducibility"]
+	path = MSci_BIOL33031/workshops/Wk1-01_open_research_and_reproducibility
+	url = https://github.com/dannagifford/Wk1-01_open_research_and_reproducibility
